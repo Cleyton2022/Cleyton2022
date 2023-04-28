@@ -1,7 +1,7 @@
 ### Olá! Eu Sou o Cleyton Santos.
 
-- 🔭 Técnico Em Informática, Desenvolvedor Web Full Stack, Técnico Em Segurança Do Trabalho;
-- 🌱 Estudante De TI
+  - 🔭 Técnico Em Informática, Desenvolvedor Web Full Stack;
+- 🌱 Estudante De Análise e Desenvolvimento de Sistemas;
 - 📫 Contate-me no email: cleytonsantos24@gmail.com
 - 👨🏾‍🎓 Formado por: Senac, Resilia.
 
