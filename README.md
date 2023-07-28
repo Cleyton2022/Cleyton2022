@@ -30,7 +30,7 @@ Aqui estão algumas das principais tecnologias e linguagens com as quais trabalh
 
 <div align="center">
 
-### 🚀 Projetos 🚀
+
 
 </div>
 
