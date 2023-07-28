@@ -1,49 +1,55 @@
-### Olá! Eu Sou o Cleyton Santos.
+# Cleyton Santos - Desenvolvedor Web Full Stack
 
-  - 🔭 Técnico Em Informática, Desenvolvedor Web Full Stack;
-- 🌱 Estudante De Análise e Desenvolvimento de Sistemas;
-- 📫 Contate-me no email: cleytonsantos24@gmail.com
-- 👨🏾‍🎓 Formado por: Senac, Resilia.
+Olá! Eu sou o Cleyton Santos, um Desenvolvedor Web Full Stack com formação em Técnico em Informática e atualmente estudante de Análise e Desenvolvimento de Sistemas. Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilidades e conhecimentos na área de desenvolvimento.
 
-  <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleyton2022&show_icons=true&theme=radical)  
-  
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton2022&layout=compact&count=16&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- 
-  </div>
-  
-  <div> 
-  
-  
-  
-  
-  
-<a href="https://github.com/Cleyton2022">
-<div style="display: inline_block"><br>
-   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  
-  
-  
-  
-  
-  <img align="right" alt="" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4D03AQEcPzdUcafE_Q/profile-displayphoto-shrink_800_800/0/1675426585574?e=1681948800&v=beta&t=YocU_H-Vgvns3aj_Ser_agqtvPEJ9exJFjrHye9-jxw">
+## Formação
+
+- Técnico em Informática pelo Senac
+- Resilia (Desenvolvimento Web Full Stack)
+
+## Principais Habilidades e Tecnologias
+
+Aqui estão algumas das principais tecnologias e linguagens com as quais trabalho:
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Python
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Cleyton2022&show_icons=true&theme=radical)
+
+## Principais Linguagens no GitHub
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton2022&layout=compact&count=16&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div align="center">
+
+### 🚀 Projetos 🚀
+
 </div>
-  
-  ##
- 
-<div> 
-  
-  <a href="https://instagram.com/cll_22" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
-  <a href = "mailto:cleytonsantos24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cleyton-santos-007tecnicorj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+<div align="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="200" />
 </div>
+
+## Contato
+
+Ficou interessado em me conhecer melhor ou quer falar sobre algum projeto? Entre em contato pelo meu e-mail: cleytonsantos24@gmail.com.
+
+## Redes Sociais e Perfis Profissionais
+
+- [Instagram](https://instagram.com/cll_22)
+- [LinkedIn](https://www.linkedin.com/in/cleyton-santos-007tecnicorj/)
+
+
+## Sobre Mim
+
+Aqui, você pode escrever um breve parágrafo sobre si mesmo, suas paixões, interesses e objetivos relacionados à tecnologia e ao desenvolvimento. Essa seção é uma ótima oportunidade para personalizar o seu perfil e mostrar sua motivação e dedicação à área.
+
+Espero que meu portfólio demonstre um pouco sobre mim e meu trabalho. Sinta-se à vontade para explorar meus repositórios no GitHub e, se tiver alguma dúvida ou proposta de colaboração, não hesite em entrar em contato. Obrigado pela visita!
