@@ -14,10 +14,11 @@ Aqui estão algumas das principais tecnologias e linguagens com as quais trabalh
 - HTML5
 - CSS3
 - JavaScript
-- TypeScript
+- PHP
 - React
 - Node.js
-- Python
+- Java
+- SQL
 
 ## Estatísticas do GitHub
 
