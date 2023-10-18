@@ -1,11 +1,12 @@
-# Cleyton Santos - Desenvolvedor Web Full Stack
+# Cleyton Santos - Web Develop Full Stack
 
 Olá! Eu sou o Cleyton Santos, um Desenvolvedor Web Full Stack com formação em Técnico em Informática e atualmente estudante de Análise e Desenvolvimento de Sistemas. Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilidades e conhecimentos na área de desenvolvimento.
 
 ## Formação
 
-- Técnico em Informática pelo Senac
-- Programação Web, senac + resilia
+- Técnico em Informática, Senac;
+- Programação Web, senac + resilia;
+- Análise e Desenvolvimento de Sistemas, Estácio de Sá;
 
 ## Principais Habilidades e Tecnologias
 
