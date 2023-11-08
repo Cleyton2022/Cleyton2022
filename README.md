@@ -16,7 +16,7 @@ Aqui estão algumas das principais tecnologias e linguagens com as quais trabalh
 - CSS3
 - JavaScript
 - PHP
-- React
+- React.js
 - Node.js
 - Java
 - SQL
